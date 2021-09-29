@@ -1,0 +1,9 @@
+1. git branch -b 
+
+2. Fast foward merge can tell what order the commits happen in. Recursive merge are not chronological and used when foast foward merge wont suffice.
+
+3. Git Checkout
+
+4.git branch -d
+
+5. When conflicting changes happen to the same file from two different branches.
